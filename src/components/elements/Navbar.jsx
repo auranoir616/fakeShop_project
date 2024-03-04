@@ -30,8 +30,6 @@ const Navbar = () =>{
                 <Button type="button" color="bg-stone-50" link={"/contactus"}>
                 <Icon name='phone' />      
                 Contact Us</Button>
-                
-                <a href="/testimoni">teslink</a>
                 <CartButton data={totalQty}/>
         
         </div>
