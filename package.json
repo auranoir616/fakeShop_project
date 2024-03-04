@@ -2,6 +2,7 @@
   "name": "fakeshop",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fakeshop.leleminati.site",
   "type": "module",
   "scripts": {
     "dev": "vite",
